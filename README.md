@@ -1,6 +1,6 @@
 # Olá, sou o Paulo Mendonça 👨‍💻
 
-Sou desenvolvedor Android e apaixonado por tecnologia.
+Sou desenvolvedor jAVA e apaixonado por tecnologia.
 ### 👀 Estou buscando uma vaga no momento 👀
 
 ## ⚡ Habilidades
